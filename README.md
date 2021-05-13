@@ -1,5 +1,5 @@
 <h1 align="center">👋Salut toi👋, je suis TheiSpaceX (aka Cyril)</h1>
-<p>C'est pas ouf comme prénom mais bon </p>
+<p align=center>C'est pas ouf comme prénom mais bon </p>
 <h3 align="center">Un passionné d'informatique</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theispacex&label=Profile%20views&color=0e75b6&style=flat" alt="theispacex" /> </p>
