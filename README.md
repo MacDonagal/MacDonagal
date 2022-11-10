@@ -1,4 +1,5 @@
-<h1 align="center">👋Salut toi👋, je suis TheiSpaceX (aka Cyril)</h1>
+<h1 align="center">👋Salut toi👋, je suis MacDonagal (aka Cyril)</h1>
+<p align=center>Un mélange de deux passions, Harry Potter & MacDo XD</p>
 <p align=center>C'est pas ouf comme prénom mais bon </p>
 <h3 align="center">Un passionné d'informatique</h3>
 
