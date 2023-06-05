@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theispacex&label=Profile%20views&color=0e75b6&style=flat" alt="theispacex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theispacex" alt="theispacex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macdonagal" alt="theispacex" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/theispacex" target="blank"><img src="https://img.shields.io/twitter/follow/theispacex?logo=twitter&style=for-the-badge" alt="theispacex" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zemacdonagal" target="blank"><img src="https://img.shields.io/twitter/follow/theispacex?logo=twitter&style=for-the-badge" alt="zemacdonagal" /></a> </p>
 
 - 🔭 I’m currently working on some  basics scripts **(Powershell, Active Directory)** for my work
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/theispacex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theispacex" height="30" width="40" /></a>
+<a href="https://twitter.com/zemacdonagal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theispacex" height="30" width="40" /></a>
 <a href="https://instagram.com/theispacex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theispacex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ispacex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ispacex" height="30" width="40" /></a>
 </p>
@@ -30,4 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/theispacex"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theispacex" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theispacex&show_icons=true&locale=en&layout=compact" alt="theispacex" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zemacdonagal&show_icons=true&locale=en&layout=compact" alt="zemacdonagal" /></p>
