@@ -30,6 +30,8 @@ Tout est auto-hébergé, documenté et en évolution permanente :
 
 **🛣️ Prochaines étapes :** migration vers OPNsense, segmentation en VLANs et rack 19" dans le garage.
 
+👉 **[Voir la config complète du homelab](HOMELAB.md)**
+
 ## 🛠️ Stack
 
 **Infra & homelab**
